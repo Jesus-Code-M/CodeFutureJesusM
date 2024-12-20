@@ -3,7 +3,7 @@
 
 - Actualmente estoy trabajando en un [Proyecto de APi](www.Api)
 
-- 🌱 Estoy actualmente aprendiendo **Tecnologías de la Nube, como AWS**
+- 🌱 Estoy actualmente aprendiendo **Tecnologías en la Nube, como AWS**
 
 - 👯 Estoy perfeccionarme en [Api Rest Azure](www.api.azure)
 
