@@ -9,7 +9,7 @@
 
 - 👨‍💻 Todos mis proyectos está disponibles [https://github.com/Jesus-Code-M](https://github.com/Jesus-Code-M)
 
-- 💬 Acerca de mi **Mi trayectoria combina dos disciplinas complementarias: Filosofía e Ingeniería en Informática. Mi formación en Filosofía me brindó una profunda capacidad de análisis, razonamiento crítico y una búsqueda constante por comprender y alcanzar la excelencia. Estos valores se reflejan en mi interés por la calidad en el desarrollo de software, donde aplico principios filosóficos para ir más allá de lo evidente y buscar soluciones sólidas y fundamentadas.**
+- 💬 <h1> ==Acerca de mi== <h6> **Mi trayectoria combina dos disciplinas complementarias: Filosofía e Ingeniería en Informática. Mi formación en Filosofía me brindó una profunda capacidad de análisis, razonamiento crítico y una búsqueda constante por comprender y alcanzar la excelencia. Estos valores se reflejan en mi interés por la calidad en el desarrollo de software, donde aplico principios filosóficos para ir más allá de lo evidente y buscar soluciones sólidas y fundamentadas.**
 
 - 📫 Cómo encontrarme **suainduran@gmail.com**
 
